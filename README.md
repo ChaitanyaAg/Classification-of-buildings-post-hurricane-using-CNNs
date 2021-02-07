@@ -9,7 +9,7 @@ This is a team project by-
 - N Santosh Gokul
 </pre>
 
-The latest hurricane - Hurricane Iota, had 61 total fatalities, and 41 are still missing. After a hurricane, damage assessment is vital to the relief helpers and first responders so that resources and help can be planned and allocated appropriately. One way to measure the damage is to detect and quantify the number of damaged buildings, usually done by driving around the affected area and noting down manually. This process can be labor-intensive and time-consuming and not the most efficient method as well.
+Hurricane Iota had 61 total fatalities, and 41 were missing. After a hurricane, damage assessment is vital to the relief helpers and first responders so that resources and help can be planned and allocated appropriately. One way to measure the damage is to detect and quantify the number of damaged buildings, usually done by driving around the affected area and noting down manually. This process can be labor-intensive and time-consuming and not the most efficient method as well.
 
 The project enables the government all over the world to switch from the current inefficient process, driving down to the affected area and identify the relief required area, to capturing the satellite image of the calamity affected area and process through the neural network model to identify where immediate government attention is required.
 
