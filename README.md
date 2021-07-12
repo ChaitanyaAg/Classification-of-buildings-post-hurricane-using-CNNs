@@ -1,13 +1,4 @@
 # Univ-AI-Final-Project
-Classifying Buildings post Hurricane Iota
-
-This is a team project by-
-<pre>
-- Chaitanya Agarwal
-- Chinmay Jain
-- Gurushankar K
-- N Santosh Gokul
-</pre>
 
 Hurricane Iota had 61 total fatalities, and 41 were missing. After a hurricane, damage assessment is vital to the relief helpers and first responders so that resources and help can be planned and allocated appropriately. One way to measure the damage is to detect and quantify the number of damaged buildings, usually done by driving around the affected area and noting down manually. This process can be labor-intensive and time-consuming and not the most efficient method as well.
 
